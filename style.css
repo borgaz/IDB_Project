@@ -145,11 +145,21 @@ h3 {
 	background:url(images/menuP.gif) no-repeat left 14px;
 }
 #navcontainer ul li a:hover {
+	padding:5px 35px 0 12px;
 	color: #fda016;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+	font-size:29px;
 	background:url(images/menuActiveP.gif) no-repeat left 14px;
 }
 #navcontainer #active a {
+	padding:5px 35px 0 12px;
 	color: #fda016;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+	font-size:29px;
 	background:url(images/menuActiveP.gif) no-repeat left 14px;
 }
 /*end main menu*/
